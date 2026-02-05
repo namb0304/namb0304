@@ -68,7 +68,7 @@ from a perspective close to the user.
 
 ---
 
-## 📊 GitHub Stats (静的版)
+## 📊 GitHub Stats (常に最新取得)
 
 <p align="center">
   <img
@@ -78,13 +78,13 @@ from a perspective close to the user.
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=dark&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=dark"
     width="45%"
     alt="Top Languages"
   />
 </p>
 
-> ⚠️ この形は画像として生成されるため、Adblock やブラウザの設定に左右されず必ず表示されます
+> ⚡ この形式なら毎回 GitHub サーバーから最新データを取得して表示します
 
 ---
 
