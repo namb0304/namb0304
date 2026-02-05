@@ -1,16 +1,14 @@
-<img src="https://capsule-render.vercel.app/api
-?type=waving
-&height=260
-&section=header
-&text=Nambo%20Shunsuke
-&fontSize=48
-&fontColor=ffffff
-&fontAlignY=38
-&color=0:020617,50:2563eb,100:60a5fa
-&waveFrequency=4
-" />
-<div align="center">
+<!-- ===================== -->
+<!-- 🌊 Animated Header -->
+<!-- ===================== -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&color=0:020617,50:2563eb,100:60a5fa&waveFrequency=4" />
+
+<!-- ===================== -->
+<!-- ⌨️ Typing Hero -->
+<!-- ===================== -->
+
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=3b82f6&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Nambo;UI%2FUX+Focused+Frontend+Engineer)
 
@@ -26,7 +24,7 @@
 Webアプリケーションの開発に取り組んでいます。
 
 UI / UX を軸にフロントエンドを中心としながら、  
-バックエンドやデータベース、インフラにも触れ、  
+バックエンド・データベース・インフラにも触れ、  
 **実運用されるプロダクトを一貫して設計・実装**してきました。
 
 ---
@@ -36,7 +34,7 @@ I focus on building web applications that are
 **intuitive, accessible, and pleasant to use**.
 
 With a strong emphasis on UI/UX,  
-I work mainly on frontend development while also handling  
+I mainly work on frontend development while also handling  
 backend, databases, and infrastructure when needed.
 
 ---
@@ -79,3 +77,9 @@ backend, databases, and infrastructure when needed.
 ## 🌐 Portfolio
 
 👉 https://namb0304-portfolio.vercel.app/
+
+<!-- ===================== -->
+<!-- 🌊 Footer -->
+<!-- ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:2563eb,100:60a5fa" />
