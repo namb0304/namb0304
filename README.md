@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=240&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&waveFrequency=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=260&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&waveFrequency=4" />
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1500&color=3b82f6&center=true&vCenter=true&width=520&lines=UI%2FUX+Focused+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=3b82f6&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Nambo;UI%2FUX+Focused+Frontend+Engineer)
 
 </div>
 
@@ -11,23 +11,23 @@
 ## 👋 About Me
 
 ### 🇯🇵 日本語
-UI / UX を軸に、  
-**「迷わず使える」「また使いたくなる」**  
-体験をコードで実装するエンジニアです。
+初めて触れる人でも迷わず使え、  
+**自然とまた使いたくなる体験**を目指して  
+Webアプリケーションの開発に取り組んでいます。
 
-フロントエンドを中心に、  
-バックエンド・DB・インフラまで一貫して触れながら  
-**実運用されるプロダクト開発**を行ってきました。
+UI / UX を軸にフロントエンドを中心としながら、  
+バックエンドやデータベース、インフラにも触れ、  
+**実運用されるプロダクトを一貫して設計・実装**してきました。
 
 ---
 
 ### 🇺🇸 English
-I am an engineer who focuses on UI/UX and builds  
-**intuitive, user-centered web experiences**.
+I focus on building web applications that are  
+**intuitive, accessible, and pleasant to use**.
 
-While specializing in frontend development,  
-I also work across backend, databases, and infrastructure  
-to deliver production-ready applications.
+With a strong emphasis on UI/UX,  
+I work mainly on frontend development while also handling  
+backend, databases, and infrastructure when needed.
 
 ---
 
@@ -45,7 +45,7 @@ to deliver production-ready applications.
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
 
 ### Infra / Tools
-<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,render,railway,firebase,git,github" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,render,railway,firebase,gcp,git,github,neovim" />
 
 </div>
 
@@ -53,7 +53,7 @@ to deliver production-ready applications.
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=0b1220&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=020617&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" />
 
 ---
 
@@ -68,6 +68,4 @@ to deliver production-ready applications.
 
 ## 🌐 Portfolio
 
-👉 **https://namb0304-portfolio.vercel.app/**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=140&section=footer&animation=twinkling&waveFrequency=3" />
+👉 https://namb0304-portfolio.vercel.app/
