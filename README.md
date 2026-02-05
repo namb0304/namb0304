@@ -53,18 +53,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namb0304&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://github.com/namb0304/namb0304/raw/output/github-contribution-grid-snake.svg" />
-
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namb0304/namb0304/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/namb0304/namb0304/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 🧠 Philosophy
