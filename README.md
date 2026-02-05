@@ -10,7 +10,7 @@
 <!-- ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Nambo!;UI%2FUX+Focused+Frontend+Engineer;🚀 Always Learning & Improving!"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Nambo !;UI%2FUX+Focused+Frontend+Engineer"
   />
 </p>
 
@@ -57,7 +57,7 @@ from a perspective close to the user.
 <td valign="top" width="50%">
 
 ### 🎨 Design / UX
-<img src="https://skillicons.dev/icons?i=figma,adobe" />
+<img src="https://skillicons.dev/icons?i=figma" />
 
 ### ☁️ Infra / Tools
 <img src="https://skillicons.dev/icons?i=postgres,docker,vercel,render,railway,firebase,gcp,git,github,neovim" />
