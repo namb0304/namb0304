@@ -16,20 +16,29 @@
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
-### 🇯🇵 日本語
-初めて触れる人でも迷わず使える  
-**直感的で気持ちいい体験**を目指してWebアプリを開発しています。
+初めて触れる人でも迷わず使え、自然とまた使いたくなる  
+**体験を作ることを意識してWebアプリを開発**しています。
 
-UI/UXを軸にフロントエンド中心で、  
-バックエンド・インフラまで一貫して対応。  
-**実運用プロダクトを自分で設計・実装**してきました。
+UI/UXを中心にフロントエンドを軸としつつ、  
+バックエンドやデータベースにも触れながら学習・実践中。
 
-### 🇺🇸 English
-I build web apps that are **intuitive, accessible, and delightful to use**.  
-Mainly frontend, but capable in backend, databases, and infrastructure.  
-I consistently design and implement production-ready products.
+将来的には、ユーザーに近い立場でサービス体験を向上させる  
+フロントエンドエンジニアを目指しています。
+
+---
+
+### 👋 About Me (English)
+
+I build web apps that are **intuitive, easy to use, and naturally engaging**.  
+
+Focusing on UI/UX and frontend development,  
+I also learn and practice backend and database technologies.  
+
+My goal is to become a frontend engineer who improves the user experience  
+from a perspective close to the user.
+
 
 ---
 
