@@ -16,8 +16,13 @@
 
 ---
 
-### 👋 About Me
+## 👋 About
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 日本語
 初めて触れる人でも迷わず使え、自然とまた使いたくなる  
 **体験を作ることを意識してWebアプリを開発**しています。
 
@@ -27,10 +32,10 @@ UI/UXを中心にフロントエンドを軸としつつ、
 将来的には、ユーザーに近い立場でサービス体験を向上させる  
 フロントエンドエンジニアを目指しています。
 
----
+</td>
+<td valign="top" width="50%">
 
-### 👋 About Me (English)
-
+### English
 I build web apps that are **intuitive, easy to use, and naturally engaging**.  
 
 Focusing on UI/UX and frontend development,  
@@ -38,6 +43,12 @@ I also learn and practice backend and database technologies.
 
 My goal is to become a frontend engineer who improves the user experience  
 from a perspective close to the user.
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
