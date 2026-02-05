@@ -2,17 +2,19 @@
 <!-- 🌊 Animated Header -->
 <!-- ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&color=0:020617,50:2563eb,100:60a5fa&waveFrequency=4" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&color=0:020617,50:2563eb,100:60a5fa"
+/>
 
 <!-- ===================== -->
 <!-- ⌨️ Typing Hero -->
 <!-- ===================== -->
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=3b82f6&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Nambo;UI%2FUX+Focused+Frontend+Engineer)
-
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Nambo;UI%2FUX+Focused+Frontend+Engineer"
+  />
+</p>
 
 ---
 
@@ -68,29 +70,38 @@ backend, databases, and infrastructure when needed.
 </tr>
 </table>
 
-
 ---
 
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=020617&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=020617&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true"
+/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=2563eb&text_color=e5e7eb" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=2563eb&text_color=e5e7eb"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=e5e7eb" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=e5e7eb"
+/>
 
 </div>
-
 
 ---
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namb0304/namb0304/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/namb0304/namb0304/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/namb0304/namb0304/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/namb0304/namb0304/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ---
@@ -103,4 +114,6 @@ backend, databases, and infrastructure when needed.
 <!-- 🌊 Footer -->
 <!-- ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:2563eb,100:60a5fa" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:2563eb,100:60a5fa"
+/>
