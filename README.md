@@ -1,6 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=260&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&waveFrequency=4" />
-
+<img src="https://capsule-render.vercel.app/api
+?type=waving
+&height=260
+&section=header
+&text=Nambo%20Shunsuke
+&fontSize=48
+&fontColor=ffffff
+&fontAlignY=38
+&color=0:020617,50:2563eb,100:60a5fa
+&waveFrequency=4
+" />
 <div align="center">
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=28&pause=1200&color=3b82f6&center=true&vCenter=true&width=460&lines=Hi%2C+I'm+Nambo;UI%2FUX+Focused+Frontend+Engineer)
 
