@@ -84,8 +84,6 @@ from a perspective close to the user.
   />
 </p>
 
-> ⚡ この形式なら毎回 GitHub サーバーから最新データを取得して表示します
-
 ---
 
 ## 📈 Activity & Contribution
