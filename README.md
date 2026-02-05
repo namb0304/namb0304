@@ -65,12 +65,12 @@ I consistently design and implement production-ready products.
 <p align="center">
   <img
     src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=namb0304&color=dark&peng=false"
-    width="45%"
+    width="48%"
     style="margin-right:2%"
   />
   <img
     src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=namb0304&color=dark"
-    width="45%"
+    width="48%"
   />
 </p>
 
@@ -112,6 +112,8 @@ I consistently design and implement production-ready products.
 ## 🏆 Trophies
 
 <p align="center">
+  <!-- 注意: GitHub Trophies は外部サービス依存のため、表示されない場合があります -->
+  <!-- 安全策: 自分のリポジトリに SVG を置いて表示するのがおすすめ -->
   <img
     src="https://github-profile-trophy.vercel.app/?username=namb0304&theme=onedark&column=6"
     alt="GitHub Trophies"
@@ -123,6 +125,8 @@ I consistently design and implement production-ready products.
 ## ✨ Animated Profile Card (ダークテーマ + 青系アクセント)
 
 <p align="center">
+  <!-- 注意: Animated Card も外部サービス依存です。 -->
+  <!-- 安全策: 自分で SVG/PNG 化して repo 内に置くのが確実 -->
   <img
     src="https://animated-profile-stats.vercel.app/api/card?username=namb0304&type=dark&icon_color=60a5fa&text_color=e5e7eb&bg_color=020617"
     alt="Animated Profile Card"
@@ -130,7 +134,7 @@ I consistently design and implement production-ready products.
 </p>
 
 ※ ダークテーマ + 青系グラデで README 全体の色味と統一済み  
-※ フォロワー数・スター数・リポジトリ数などがリアルタイムに反映される
+※ フォロワー数・スター数・リポジトリ数などがリアルタイムに反映される（表示保証は外部依存）
 
 ---
 
