@@ -1,31 +1,33 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:2563eb&height=230&section=header&text=Shunsuke%20Nambo&fontSize=48&fontAlignY=38&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=240&section=header&text=Nambo%20Shunsuke&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&waveFrequency=3" />
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=2000&color=22d3ee&center=true&vCenter=true&width=720&lines=UI%2FUX+Focused+Frontend+Engineer;Designing+experiences+people+want+to+use+again.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1500&color=3b82f6&center=true&vCenter=true&width=520&lines=UI%2FUX+Focused+Engineer)
 
 </div>
 
 ---
 
-## 👋 About / Philosophy
+## 👋 About Me
 
-**初めて触れる人でも迷わず使え、  
-自然とまた使いたくなる体験をつくる。**
+### 🇯🇵 日本語
+UI / UX を軸に、  
+**「迷わず使える」「また使いたくなる」**  
+体験をコードで実装するエンジニアです。
 
-そんな体験を目指して、Webアプリケーションの開発に取り組んでいます。
+フロントエンドを中心に、  
+バックエンド・DB・インフラまで一貫して触れながら  
+**実運用されるプロダクト開発**を行ってきました。
 
-開発では、技術そのものだけでなく  
-**「誰が・どんな状況で・どのように使うのか」**  
-を起点に考えることを大切にしています。
+---
 
-UI / UX を軸にフロントエンドを中心としながら、  
-バックエンドやデータベースにも触れ、  
-設計から実装まで一貫して関わる開発を行ってきました。
+### 🇺🇸 English
+I am an engineer who focuses on UI/UX and builds  
+**intuitive, user-centered web experiences**.
 
-将来的には、  
-**ユーザーに最も近い場所で価値を生み出せるエンジニア**  
-でありたいと考えています。
+While specializing in frontend development,  
+I also work across backend, databases, and infrastructure  
+to deliver production-ready applications.
 
 ---
 
@@ -34,7 +36,7 @@ UI / UX を軸にフロントエンドを中心としながら、
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,nuxtjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,tailwind" />
 
 ### Design / UX
 <img src="https://skillicons.dev/icons?i=figma" />
@@ -43,7 +45,7 @@ UI / UX を軸にフロントエンドを中心としながら、
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
 
 ### Infra / Tools
-<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,render,railway,firebase,gcp,git,github,neovim" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,vercel,render,railway,firebase,git,github" />
 
 </div>
 
@@ -51,8 +53,7 @@ UI / UX を軸にフロントエンドを中心としながら、
 
 ## 📊 GitHub Activity
 
-<!-- アニメーション“風”に見せる Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=0d1117&color=67e8f9&line=2563eb&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=0b1220&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" />
 
 ---
 
@@ -69,4 +70,4 @@ UI / UX を軸にフロントエンドを中心としながら、
 
 👉 **https://namb0304-portfolio.vercel.app/**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:2563eb&height=140&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=140&section=footer&animation=twinkling&waveFrequency=3" />
