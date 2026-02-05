@@ -50,8 +50,6 @@ from a perspective close to the user.
 
 ---
 
----
-
 ## 🛠 Tech Stack
 
 <table>
