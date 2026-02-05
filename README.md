@@ -10,7 +10,7 @@
 <!-- ===================== -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Nambo !;UI%2FUX+Focused+Frontend+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Nambo!;UI%2FUX+Focused+Frontend+Engineer"
   />
 </p>
 
