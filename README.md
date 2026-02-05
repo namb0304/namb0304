@@ -39,7 +39,6 @@ I also learn and practice backend and database technologies.
 My goal is to become a frontend engineer who improves the user experience  
 from a perspective close to the user.
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -69,19 +68,23 @@ from a perspective close to the user.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (静的版)
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=dark&hide_title=true&count_private=true"
     width="45%"
     style="margin-right:2%"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=dark&hide_title=true"
     width="45%"
+    alt="Top Languages"
   />
 </p>
+
+> ⚠️ この形は画像として生成されるため、Adblock やブラウザの設定に左右されず必ず表示されます
 
 ---
 
