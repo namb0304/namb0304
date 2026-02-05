@@ -73,12 +73,12 @@ from a perspective close to the user.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=dark&hide_title=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=dark&hide_border=true"
     width="45%"
     style="margin-right:2%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=dark&hide_border=true"
     width="45%"
   />
 </p>
