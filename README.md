@@ -41,27 +41,48 @@ backend, databases, and infrastructure when needed.
 
 ## 🎨 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Frontend
+### 🖥 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,tailwind" />
 
-### Design / UX
+<br/>
+
+### 🎨 Design / UX
 <img src="https://skillicons.dev/icons?i=figma" />
 
-### Backend
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
 
-### Infra / Tools
+<br/>
+
+### ☁️ Infra / Tools
 <img src="https://skillicons.dev/icons?i=postgres,docker,vercel,render,railway,firebase,gcp,git,github,neovim" />
 
-</div>
+</td>
+</tr>
+</table>
+
 
 ---
 
 ## 📊 GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=namb0304&bg_color=020617&color=60a5fa&line=2563eb&point=ffffff&area=true&hide_border=true" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=namb0304&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=2563eb&text_color=e5e7eb" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namb0304&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=e5e7eb" />
+
+</div>
+
 
 ---
 
