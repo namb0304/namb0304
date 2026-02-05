@@ -72,6 +72,26 @@ backend, databases, and infrastructure when needed.
 
 ---
 
+## 📈 GitHub Account Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=namb0304&color=dark&peng=false"
+  />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=namb0304&color=dark"
+  />
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <img
