@@ -42,7 +42,7 @@ I consistently design and implement production-ready products.
 ### 💻 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,tailwind" />
 
-### 🧠 Backend
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
 
 </td>
@@ -60,27 +60,23 @@ I consistently design and implement production-ready products.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (横並び)
 
 <p align="center">
-  <!-- GitHub Stats Card -->
   <img
     src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=namb0304&color=dark&peng=false"
-    alt="GitHub Stats"
+    width="45%"
+    style="margin-right:2%"
   />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
   <img
     src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=namb0304&color=dark"
-    alt="Top Languages"
+    width="45%"
   />
 </p>
 
 ---
 
-## 📈 Activity Visuals
+## 📈 Activity & Contribution
 
 <table>
 <tr>
@@ -113,20 +109,49 @@ I consistently design and implement production-ready products.
 
 ---
 
-## 🏆 Trophies & Fun Stats
+## 🏆 Trophies
 
-<!-- GitHub Profile Trophy Widget -->
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=namb0304&theme=onedark&column=6"
-    alt="GitHub Profile Trophies"
+    alt="GitHub Trophies"
   />
 </p>
 
 ---
 
-## ✨ Extra Widgets You Can Use
+## ✨ Animated Profile Card (ダークテーマ + 青系アクセント)
 
-### 📌 Animated Profile Card (Pokémon‑style)
-```markdown
-![Animated Card](https://animated-profile-stats.vercel.app/api/card?username=namb0304&type=water)
+<p align="center">
+  <img
+    src="https://animated-profile-stats.vercel.app/api/card?username=namb0304&type=dark&icon_color=60a5fa&text_color=e5e7eb&bg_color=020617"
+    alt="Animated Profile Card"
+  />
+</p>
+
+※ ダークテーマ + 青系グラデで README 全体の色味と統一済み  
+※ フォロワー数・スター数・リポジトリ数などがリアルタイムに反映される
+
+---
+
+## 🌐 Portfolio
+<p align="center">
+  <a
+    href="https://namb0304-portfolio.vercel.app/"
+    style="text-decoration:none;"
+  >
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
+---
+
+<!-- ===================== -->
+<!-- 🌊 Footer -->
+<!-- ===================== -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:2563eb,100:60a5fa"
+/>
