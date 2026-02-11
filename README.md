@@ -60,7 +60,7 @@ from a perspective close to the user.
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,nuxtjs,tailwind" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,java" />
 
 </td>
 <td valign="top" width="50%">
