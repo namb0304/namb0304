@@ -16,7 +16,6 @@
 </p>
 
 ---
-
 ## 👋 About
 
 <table>
@@ -25,14 +24,14 @@
 
 ### 日本語
 
-武蔵野大学 データサイエンス学部で学ぶ **2028卒** です。
+武蔵野大学 データサイエンス学部で学ぶ、**2028年卒業予定**の学生です。
 
 **ユーザーや顧客の課題を起点に、設計・実装・運用改善まで関わるWeb開発**に取り組んでいます。
 
 現在は5人チームで、飲食店向けモバイルオーダー **「Hirolia」** を開発・運用しています。  
-注文画面・メニュー管理画面・APIの実装、DB設計、本番運用を担当し、2026年9月時点で本契約4店舗で利用されています。
+私は注文画面・メニュー管理画面・APIの実装、DB設計、本番運用を担当しています。2026年9月時点で、サービスは本契約4店舗で運用されています。
 
-将来は、与えられた仕様を実装するだけでなく、  
+将来は、実装にとどまらず、  
 **顧客の課題を理解し、「何をつくるか」から提案できるエンジニア**を目指しています。
 
 </td>
@@ -40,19 +39,18 @@
 
 ### English
 
-I'm a **2028 graduate** studying Data Science at Musashino University.
+I'm a Data Science student at Musashino University, graduating in **2028**.
 
-I build web products from **understanding user problems to design, implementation, production, and continuous improvement**.
+I work on web development from **understanding user and customer problems through design, implementation, production, and continuous improvement**.
 
 I'm currently developing and operating **Hirolia**, a mobile ordering service for restaurants, in a five-person team.  
-I work on the customer-facing UI, menu management UI, APIs, database design, and production operations.
+I work on the customer-facing UI, menu management UI, APIs, database design, and production operations. As of September 2026, the service is running in four contracted stores.
 
-My goal is to become an engineer who can go beyond implementing given specifications and contribute from **understanding problems and deciding what should be built**.
+My goal is to become an engineer who goes beyond implementation and can contribute from **understanding problems and deciding what should be built**.
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠 Tech Stack
